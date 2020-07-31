@@ -5,13 +5,6 @@ individual work items are managed in the following kanban:
 
 https://trello.com/b/ix6yGQwE/multinational
 
-## phases
-
-1) write a narrative
-
-2) build business case and call to action
-
-3) find users and partners
 
 # deliverables
 
